@@ -1,6 +1,6 @@
 # bike-share-demand
 
-
+![The Bike Sharing Demand Prediction Task](https://user-images.githubusercontent.com/14073798/101976631-985eef80-3c79-11eb-9810-f570cec7df76.png)
 
 
 The goal of this task is to predict bike demands for the last 2 weeks of each month given the first 2 weeks bike demands data (constant horizontal lines on the plot above). 
