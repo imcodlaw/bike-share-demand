@@ -2,8 +2,6 @@
 
 
 
-![task](https://user-images.githubusercontent.com/14073798/101787833-1a440100-3b32-11eb-824e-d631dd8cdb50.png)
-
 
 The goal of this task is to predict bike demands for the last 2 weeks of each month given the first 2 weeks bike demands data (constant horizontal lines on the plot above). 
 These are all of the features obtained in the dataset :
